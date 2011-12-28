@@ -1,4 +1,4 @@
 source :rubygems
 
-gem 'sinatra
+gem 'sinatra'
 gem 'newrelic_rpm'
