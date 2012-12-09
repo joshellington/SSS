@@ -6,7 +6,6 @@ Simplest of the simple. Sultan of small.
 Includes
 ---
 
-- New Relic
 - jQuery
 - normalize.css reset
 - Basic helpers
