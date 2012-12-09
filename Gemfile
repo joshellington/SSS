@@ -1,5 +1,5 @@
 source :rubygems
 
 gem 'sinatra'
-gem 'shotgun'
+gem 'sinatra-contrib'
 gem 'foreman'
