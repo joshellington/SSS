@@ -1,1 +1,1 @@
-web: bundle exec ruby app/app.rb -p $PORT
+web: bundle exec shotgun config.ru -p $PORT
